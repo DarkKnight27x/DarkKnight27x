@@ -19,11 +19,18 @@ I'm a passionate developer exploring **Web Development**, **Databases**, and **A
   <img src="https://img.shields.io/badge/-Canva-07B4F8?style=for-the-badge&logo=canva&logoColor=white" height="40"/>
 </p>
 
-[![Framer](https://img.shields.io/badge/Framer-05F?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/)
+<p>
+  <a href="https://www.framer.com/">
+    <img src="https://img.shields.io/badge/Framer-05F?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Badge" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://gcap.com">
+    <img src="https://img.shields.io/badge/GCAP-Certified-blue?style=for-the-badge&logo=google&logoColor=white" alt="GCAP Badge" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+  </a>
+</p>
 
-[![GCAP](https://img.shields.io/badge/GCAP-Certified-blue?style=for-the-badge&logo=google&logoColor=white)](https://gcap.com)
-
-[![Docker](https://img.shields.io/badge/Docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 
 
