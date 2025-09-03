@@ -1,6 +1,4 @@
-# Hi, I'm DarkKnight27x! 👋
-
-## About Me
+# Hi, I'm Saarthak! 👋
 I'm a passionate developer exploring **Web Development**, **Databases**, and **Artificial Intelligence**. I enjoy creating beautiful web experiences and diving into AI-related projects.
 
 ## Languages and Technologies
