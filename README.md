@@ -31,7 +31,22 @@ I'm a passionate developer exploring **Web Development**, **Databases**, and **A
   </a>
 </p>
 
+### 📊 Languages Used
 
+<svg width="200" height="200" viewBox="0 0 32 32">
+  <!-- Python -->
+  <circle r="16" cx="16" cy="16" fill="none" stroke="#3776AB" stroke-width="32" stroke-dasharray="16 80" transform="rotate(-90 16 16)"></circle>
+  <!-- HTML -->
+  <circle r="16" cx="16" cy="16" fill="none" stroke="#E34F26" stroke-width="32" stroke-dasharray="16 80" transform="rotate(-30 16 16)"></circle>
+  <!-- CSS -->
+  <circle r="16" cx="16" cy="16" fill="none" stroke="#1572B6" stroke-width="32" stroke-dasharray="16 80" transform="rotate(30 16 16)"></circle>
+  <!-- JavaScript -->
+  <circle r="16" cx="16" cy="16" fill="none" stroke="#F7DF1E" stroke-width="32" stroke-dasharray="16 80" transform="rotate(90 16 16)"></circle>
+  <!-- React -->
+  <circle r="16" cx="16" cy="16" fill="none" stroke="#61DAFB" stroke-width="32" stroke-dasharray="16 80" transform="rotate(150 16 16)"></circle>
+  <!-- Rasa -->
+  <circle r="16" cx="16" cy="16" fill="none" stroke="#2A2A2A" stroke-width="32" stroke-dasharray="16 80" transform="rotate(210 16 16)"></circle>
+</svg>
 
 
 
