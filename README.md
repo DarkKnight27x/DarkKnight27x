@@ -15,7 +15,8 @@ I'm a passionate developer exploring **Web Development**, **Databases**, and **A
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-FBBB00?style=flat&logo=google-cloud&logoColor=white)
 ![Rasa](https://img.shields.io/badge/-Rasa-FF5C5C?style=flat&logo=rasa&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-07B4F8?style=flat&logo=canva&logoColor=white)
-[![Framer](https://badgen.net/badge/icon/framer?icon=framer&label&color=blue)](https://www.framer.com/)
+[![Framer](https://img.shields.io/badge/Framer-05F?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/)
+
 
 
 ## Connect with Me
