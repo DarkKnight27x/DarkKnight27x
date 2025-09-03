@@ -12,7 +12,7 @@ I'm a passionate developer exploring **Web Development**, **Databases**, and **A
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="50"/><br>
 
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40"/>
+  <br><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/-Google_Cloud-FBBB00?style=for-the-badge&logo=google-cloud&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/-Rasa-FF5C5C?style=for-the-badge&logo=rasa&logoColor=white" height="40"/>
