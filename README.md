@@ -3,18 +3,21 @@ I'm a passionate developer exploring **Web Development**, **Databases**, and **A
 
 ## Languages and Technologies
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-FBBB00?style=flat&logo=google-cloud&logoColor=white)
-![Rasa](https://img.shields.io/badge/-Rasa-FF5C5C?style=flat&logo=rasa&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-07B4F8?style=flat&logo=canva&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-Google_Cloud-FBBB00?style=for-the-badge&logo=google-cloud&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-Rasa-FF5C5C?style=for-the-badge&logo=rasa&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-Canva-07B4F8?style=for-the-badge&logo=canva&logoColor=white" height="40"/>
+</p>
+
 [![Framer](https://img.shields.io/badge/Framer-05F?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/)
 
 
