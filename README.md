@@ -19,6 +19,8 @@ I'm a passionate developer exploring **Web Development**, **Databases**, and **A
 </p>
 
 [![Framer](https://img.shields.io/badge/Framer-05F?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/)
+[![GCAP](https://img.shields.io/badge/GCAP-Certified-blue?style=for-the-badge&logo=google&logoColor=white)](https://gcap.com)
+
 
 
 
