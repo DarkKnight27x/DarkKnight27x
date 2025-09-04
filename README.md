@@ -31,19 +31,6 @@ I'm a passionate developer exploring **Web Development**, **Databases**, and **A
   </a>
 </p>
 
-###  Languages Used
-<div align="center">
-
-<img src="https://quickchart.io/chart?bkg=black&c=%7B%20type%3A'doughnut'%2C%20data%3A%7Bdatasets%3A%5B%7Bdata%3A%5B78%2C18%2C2%2C2%5D%2CbackgroundColor%3A%5B'%2300FFFF'%2C'%23FFD700'%2C'%23FF0000'%2C'%2300008B'%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3Afalse%7D%7D%7D" width="300" style="display:inline-block;"/>
-
-<div style="display:inline-block; text-align:left; margin-left:20px;">
-  <p><span style="color:#00FFFF;">⬤ Python (78%)</span></p>
-  <p><span style="color:#FFD700;">⬤ JavaScript (18%)</span></p>
-  <p><span style="color:#FF0000;">⬤ HTML (2%)</span></p>
-  <p><span style="color:#00008B;">⬤ CSS (2%)</span></p>
-</div>
-
-</div>
 
 ## Connect with Me
 
