@@ -32,29 +32,18 @@ I'm a passionate developer exploring **Web Development**, **Databases**, and **A
 </p>
 
 ###  Languages Used
-<p align="center">
-  <img src="https://quickchart.io/chart?bkg=black&c=%7B%0A%20%20type%3A'doughnut'%2C%0A%20%20data%3A%7B%0A%20%20%20%20datasets%3A%5B%7B%0A%20%20%20%20%20%20data%3A%5B78%2C18%2C2%2C2%5D%2C%0A%20%20%20%20%20%20backgroundColor%3A%5B'%2300FFFF'%2C'%23FFD700'%2C'%23FF0000'%2C'%2300008B'%5D%0A%20%20%20%20%7D%5D%0A%20%20%7D%2C%0A%20%20options%3A%7Bplugins%3A%7Blegend%3Afalse%7D%7D%0A%7D" width="400"/>
-</p>
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td><span style="color:#00FFFF;">⬤</span></td>
-    <td>Python (78%)</td>
-  </tr>
-  <tr>
-    <td><span style="color:#FFD700;">⬤</span></td>
-    <td>JavaScript (18%)</td>
-  </tr>
-  <tr>
-    <td><span style="color:#FF0000;">⬤</span></td>
-    <td>HTML (2%)</td>
-  </tr>
-  <tr>
-    <td><span style="color:#00008B;">⬤</span></td>
-    <td>CSS (2%)</td>
-  </tr>
-</table>
+<img src="https://quickchart.io/chart?bkg=black&c=%7B%20type%3A'doughnut'%2C%20data%3A%7Bdatasets%3A%5B%7Bdata%3A%5B78%2C18%2C2%2C2%5D%2CbackgroundColor%3A%5B'%2300FFFF'%2C'%23FFD700'%2C'%23FF0000'%2C'%2300008B'%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3Afalse%7D%7D%7D" width="300" style="display:inline-block;"/>
 
+<div style="display:inline-block; text-align:left; margin-left:20px;">
+  <p><span style="color:#00FFFF;">⬤</span> Python (78%)</p>
+  <p><span style="color:#FFD700;">⬤</span> JavaScript (18%)</p>
+  <p><span style="color:#FF0000;">⬤</span> HTML (2%)</p>
+  <p><span style="color:#00008B;">⬤</span> CSS (2%)</p>
+</div>
+
+</div>
 
 ## Connect with Me
 
