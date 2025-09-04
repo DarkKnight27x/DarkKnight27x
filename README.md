@@ -32,6 +32,57 @@ I'm a passionate developer exploring **Web Development**, **Databases**, and **A
 </p>
 
 ###  Languages Used
+import matplotlib.pyplot as plt
+
+# Data
+labels = ['Python (78%)', 'JavaScript (18%)', 'HTML (2%)', 'CSS (2%)']
+sizes = [78, 18, 2, 2]
+
+# Colors per your choice
+colors = ['#00FFFF',  # cyan blue for Python
+          '#FFD700',  # yellow for JS
+          '#FF0000',  # red for HTML
+          '#00008B']  # dark blue for CSS
+
+# Figure with black rectangular background
+fig = plt.figure(figsize=(12, 7), facecolor='black')
+ax = fig.add_subplot(111)
+ax.set_facecolor('black')
+
+# Draw donut chart
+wedges, texts, autotexts = ax.pie(
+    sizes,
+    colors=colors,
+    labels=labels,          # show labels on blocks
+    autopct='%1.1f%%',      # show percentage
+    startangle=90,
+    pctdistance=0.82,       # percentage position
+    labeldistance=1.05,     # label position
+    textprops={'color': 'white', 'fontsize': 12},
+    wedgeprops=dict(width=0.38, edgecolor='black')
+)
+
+# Add central circle for donut effect
+centre_circle = plt.Circle((0, 0), 0.62, fc='black')
+ax.add_artist(centre_circle)
+
+# Add legend
+ax.legend(
+    wedges, labels,
+    title="Languages",
+    loc="center left",
+    bbox_to_anchor=(1, 0, 0.3, 1),
+    facecolor='black',
+    labelcolor='white'
+)
+
+# Remove axes
+ax.set(aspect='equal')
+ax.axis('off')
+
+# Save chart
+plt.savefig("github_languages_pie.png", dpi=300, facecolor=fig.get_facecolor(), bbox_inches='tight', pad_inches=0.4)
+plt.show()
 
 <svg width="200" height="200" viewBox="0 0 32 32">
   <!-- Python -->
