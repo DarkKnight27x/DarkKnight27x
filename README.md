@@ -1,4 +1,4 @@
-# Hi, I'm Saarthak! 
+Saarthak here
 I'm a passionate developer exploring **Web Development**, **Databases**, and **Artificial Intelligence**. I enjoy creating beautiful web experiences and diving into AI-related projects.
 
 ## Languages and Technologies
