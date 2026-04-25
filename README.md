@@ -38,4 +38,4 @@ I'm a passionate developer exploring **Web Development**, **Databases**, and **A
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/saaarthak_27)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/saarthakrkulkar1)
 
-*Thanks for stopping by! Let's build something amazing*
+
