@@ -1,205 +1,236 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0ABDC6,50:7B2FF7,75:0ABDC6,100:0D1117&height=250&section=header&text=SAARTHAK%20KULKARNI&fontSize=52&fontColor=00F5FF&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%7C%20AI%20Agent%20Builder%20%7C%20CNN%20%26%20CV%20Specialist&descAlignY=58&descColor=B9A6FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0ABDC6,60:7B2FF7,100:0D1117&height=240&section=header&text=SAARTHAK%20KULKARNI&fontSize=48&fontColor=00F5FF&fontAlignY=36&desc=Full-Stack%20AI%20Engineer%20%E2%80%94%20Agent%20Builder%20%E2%80%94%20CNN%20%26%20CV%20Specialist&descAlignY=56&descColor=B9A6FF&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Drafting+Blueprints+for+Autonomous+AI+Agents;Engineering+CNNs+That+Learn+to+See;Full-Stack+Architect+%40+VIT+Chennai;%F0%9F%A6%87+Batman+by+day%2C+Coder+by+night" alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://linkedin.com/in/saarthak-kulkarni-7a355b31b">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/saaarthak_27">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/saarthakrkulkar1">
-  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=DarkKnight27x&style=for-the-badge&color=0ABDC6&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&width=750&lines=Building+Production-Grade+AI+Agents+%F0%9F%A4%96;Training+CNNs+to+See+the+World+%F0%9F%91%81%EF%B8%8F;Full-Stack+Engineer+%40+VIT+Chennai;Batman+by+day%2C+Coder+by+night+%F0%9F%A6%87" alt="Typing SVG"/>
+<a href="https://linkedin.com/in/saarthak-kulkarni-7a355b31b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://instagram.com/saaarthak_27"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;
+<a href="https://www.hackerrank.com/saarthakrkulkar1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=DarkKnight27x&style=flat-square&color=0D1117&label=VIEWS&labelColor=0ABDC6"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0ABDC6&height=2&section=header"/>
+<!-- ============================================================ -->
+<!-- SECTION 01 — BLUEPRINT OVERVIEW                              -->
+<!-- ============================================================ -->
 
-## 🧠 &nbsp;Neural Core — Who Am I
+<div align="center">
 
-```yaml
-class SaarthakKulkarni:
-    def __init__(self):
-        self.codename      = "DarkKnight27x"
-        self.role           = ["Full-Stack AI Engineer", "AI Agent Builder", "CNN / CV Specialist"]
-        self.base           = "VIT Chennai / Mumbai, India"
-        self.alter_ego      = "🦇 Batman by day, Coder by night"
-        self.currently      = "Building agentic AI systems & production-grade neural networks"
+### 📐 &nbsp; BLUEPRINT&nbsp;01 &nbsp;/&nbsp; PROFILE&nbsp;OVERVIEW
 
-    def mission(self):
-        return "Turning ideas into intelligent, production-ready systems —" \
-               "one AI Agent and one Convolutional layer at a time."
+<sub>SCALE 1:1 &nbsp;·&nbsp; DRAWN BY DarkKnight27x &nbsp;·&nbsp; SHEET A-001</sub>
+
+</div>
+
+<table width="100%">
+<tr><td>
+
+| SPEC | DETAIL |
+|:--|:--|
+| **Codename** | `DarkKnight27x` |
+| **Discipline** | Full-Stack AI Engineering · Agentic Systems · Computer Vision |
+| **Site Location** | VIT Chennai &nbsp;/&nbsp; Mumbai, India |
+| **Load-Bearing Skills** | AI Agents · Convolutional Neural Networks · Full-Stack Delivery |
+| **Alter Ego** | 🦇 Gotham's after-hours committer |
+| **Currently Constructing** | Production-grade agentic AI systems + CV pipelines |
+| **Design Philosophy** | *Ship structures that think — not just render* |
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- SECTION 02 — SYSTEM ARCHITECTURE                             -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+### 🏗️ &nbsp; BLUEPRINT&nbsp;02 &nbsp;/&nbsp; SYSTEM ARCHITECTURE
+
+<sub>HOW I DESIGN INTELLIGENT SYSTEMS, END TO END</sub>
+
+</div>
+
+```mermaid
+flowchart TD
+    IN(["🎯 Problem Input"]) --> AGENT["🤖 Agent Orchestration Layer"]
+    IN --> CNN["👁️ CNN / Computer Vision Core"]
+
+    AGENT --> TOOLS["🔧 Tool-Using Agent Logic"]
+    CNN --> TOOLS
+
+    TOOLS --> API["🧠 FastAPI / Service Layer"]
+    API --> WEB["🌐 React Full-Stack Delivery"]
+    WEB --> CLOUD["☁️ Google Cloud + Docker Deployment"]
+    CLOUD --> OUT(["🚀 Production System"])
+
+    classDef node fill:#0D1117,stroke:#00F5FF,stroke-width:1.5px,color:#c9d1d9,rx:8,ry:8;
+    classDef accent fill:#0D1117,stroke:#7B2FF7,stroke-width:2px,color:#00F5FF,rx:8,ry:8;
+    class IN,OUT accent;
+    class AGENT,CNN,TOOLS,API,WEB,CLOUD node;
 ```
 
-I'm a passionate developer crafting **beautiful web experiences**, **intelligent databases**, and **AI-powered systems**. Currently deep in **Agentic AI**, **Computer Vision**, and **full-stack architecture** — shipping things that don't just look good, but actually *think*.
+<div align="center"><sub>Every project below is a load-bearing instance of this blueprint.</sub></div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=7B2FF7&height=2&section=header"/>
-
-## ⚡ &nbsp;Signal Specializations
+<!-- ============================================================ -->
+<!-- SECTION 03 — MATERIALS / TECH ARSENAL                        -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-| 🤖 AI Agents | 🧬 CNN &nbsp;/&nbsp; Computer Vision | 🌐 Full-Stack Systems |
-|:---:|:---:|:---:|
-| Designing & shipping **agentic AI systems** — autonomous, tool-using, production-grade agents | Building & training **Convolutional Neural Networks** for real-world visual intelligence | Bridging GenAI + CV models with robust web apps & databases |
-| ![Agents](https://img.shields.io/badge/Status-Actively%20Building-00F5FF?style=flat-square&labelColor=0D1117) | ![CNN](https://img.shields.io/badge/Focus-Deep%20Learning-7B2FF7?style=flat-square&labelColor=0D1117) | ![Stack](https://img.shields.io/badge/Layer-End--to--End-0ABDC6?style=flat-square&labelColor=0D1117) |
+### 🧩 &nbsp; BLUEPRINT&nbsp;03 &nbsp;/&nbsp; STRUCTURAL MATERIALS
+
+<sub>APPROVED TECH STACK FOR LOAD-BEARING WORK</sub>
 
 </div>
 
+<table width="100%">
+<tr>
+<td width="25%" valign="top" align="center">
+
+**🔩 Foundation**
+<br/><br/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/>
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**🧠 Intelligence Layer**
+<br/><br/>
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-Rasa-FF5C5C?style=flat-square&logo=rasa&logoColor=white"/>
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**🌐 Facade &nbsp;/&nbsp; Interface**
+<br/><br/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**☁️ Infrastructure**
+<br/><br/>
+<img src="https://img.shields.io/badge/-Docker-257bd6?style=flat-square&logo=docker&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-Canva-07B4F8?style=flat-square&logo=canva&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/GCAP-Certified-00F5FF?style=flat-square&logo=google&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0ABDC6&height=2&section=header"/>
-
-## 🛰️ &nbsp;Tech Arsenal
+<!-- ============================================================ -->
+<!-- SECTION 04 — LIVE TELEMETRY                                  -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+### 📡 &nbsp; BLUEPRINT&nbsp;04 &nbsp;/&nbsp; LIVE TELEMETRY
 
-<br/><br/>
-
-**AI &nbsp;/&nbsp; GenAI &nbsp;/&nbsp; Agents**
-<br/>
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Rasa-FF5C5C?style=for-the-badge&logo=rasa&logoColor=white"/>
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-
-<br/><br/>
-
-**Web &nbsp;/&nbsp; Full-Stack**
-<br/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-<br/><br/>
-
-**Cloud &nbsp;/&nbsp; Tools &nbsp;/&nbsp; Design**
-<br/>
-<img src="https://img.shields.io/badge/-Docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Canva-07B4F8?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCAP-Certified-00F5FF?style=for-the-badge&logo=google&logoColor=white"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=7B2FF7&height=2&section=header"/>
-
-## 📡 &nbsp;Live Intelligence Feed
-
-<div align="center">
+<sub>REAL-TIME STRUCTURAL METRICS, AUTO-SURVEYED BY GITHUB</sub>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DarkKnight27x&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B2FF7&text_color=c9d1d9&border_radius=12" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkKnight27x&theme=tokyonight&hide_border=true&background=0D1117&stroke=0ABDC6&ring=7B2FF7&fire=00F5FF&currStreakLabel=00F5FF&border_radius=12" height="165"/>
 
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkKnight27x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9&border_radius=12" height="165"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkKnight27x&theme=tokyo-night&bg_color=0D1117&color=00F5FF&line=7B2FF7&point=ffffff&hide_border=true&border_radius=12" width="90%"/>
-
 </div>
 
 <br/>
 
-## 🏆 &nbsp;Trophy Cabinet
+<!-- ============================================================ -->
+<!-- SECTION 05 — PROJECT BLUEPRINTS                              -->
+<!-- ============================================================ -->
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DarkKnight27x&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+
+### 🗂️ &nbsp; BLUEPRINT&nbsp;05 &nbsp;/&nbsp; CONSTRUCTED WORKS
+
+<sub>SELECTED STRUCTURES, FULLY PERMITTED &amp; DEPLOYED</sub>
+
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0ABDC6&height=2&section=header"/>
-
-## 🚀 &nbsp;Featured Neural Projects
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>🎧 MoodMuse</h3>
-<p><em>AI-Powered Playlist Generator — Spotify Integrated</em></p>
-<p>An intelligent recommendation engine that reads mood &amp; context to generate personalized playlists, powered by a custom quiz-driven preference engine and live Spotify data.</p>
+
+<h4>🎧 &nbsp;MoodMuse</h4>
+<sub><strong>DWG NO. 001</strong> &nbsp;·&nbsp; AI Playlist Generator, Spotify-Integrated</sub>
+<p>A mood-aware recommendation engine — a quiz-driven preference vector feeds a multi-objective ranking system layered over live Spotify data to generate genuinely personalized playlists.</p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
 </td>
 <td width="50%" valign="top">
-<h3>🛡️ SJ</h3>
-<p><em>Production-Grade AI Agent</em></p>
-<p>An autonomous, tool-using AI agent engineered for real-world reliability — built with production-first practices from day one, not a prototype.</p>
+
+<h4>🛡️ &nbsp;SJ</h4>
+<sub><strong>DWG NO. 002</strong> &nbsp;·&nbsp; Production-Grade AI Agent</sub>
+<p>An autonomous, tool-using AI agent engineered for real-world reliability from the foundation up — built to production standards, not prototyped and left there.</p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Docker-257bd6?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+
 </td>
 </tr>
-</table>
-
-<h3>🧩 GDG-CHATBOT &nbsp;&amp;&nbsp; 🖥️ OS-Simulator</h3>
-<table>
 <tr>
-<td width="50%" valign="top" align="center">
-<strong>GDG-CHATBOT</strong><br/>
-<sub>GenAI financial assistant delivering real-time insights</sub>
+<td width="50%" valign="top">
+
+<h4>💬 &nbsp;GDG-CHATBOT</h4>
+<sub><strong>DWG NO. 003</strong> &nbsp;·&nbsp; GenAI Financial Assistant</sub>
+<p>Conversational assistant delivering real-time financial insights through a GenAI-driven interface.</p>
+
 </td>
-<td width="50%" valign="top" align="center">
-<strong>OS-Simulator</strong><br/>
-<sub>Interactive Operating System concepts visualizer</sub>
+<td width="50%" valign="top">
+
+<h4>🖥️ &nbsp;OS-Simulator</h4>
+<sub><strong>DWG NO. 004</strong> &nbsp;·&nbsp; Systems Visualizer</sub>
+<p>An interactive visualizer that turns core Operating System concepts into something you can actually see move.</p>
+
 </td>
 </tr>
 </table>
-
-</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=7B2FF7&height=2&section=header"/>
-
-## 🌐 &nbsp;Connect in the Matrix
+<!-- ============================================================ -->
+<!-- SECTION 06 — TRANSMISSION LINES                              -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<a href="https://linkedin.com/in/saarthak-kulkarni-7a355b31b">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/saaarthak_27">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/saarthakrkulkar1">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+### 📶 &nbsp; BLUEPRINT&nbsp;06 &nbsp;/&nbsp; TRANSMISSION LINES
+
+<sub>OPEN CHANNELS FOR COLLABORATION</sub>
+
+<a href="https://linkedin.com/in/saarthak-kulkarni-7a355b31b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/saaarthak_27"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/saarthakrkulkar1"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -207,4 +238,4 @@ I'm a passionate developer crafting **beautiful web experiences**, **intelligent
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0ABDC6,50:7B2FF7,75:0ABDC6,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0ABDC6,60:7B2FF7,100:0D1117&height=120&section=footer"/>
