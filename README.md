@@ -12,7 +12,12 @@
 
 ### 🧠 Neural Core
 I'm a passionate developer crafting **beautiful web experiences**, **intelligent databases**, and **AI-powered systems**. Currently diving deep into GenAI, computer vision, and full-stack architectures.
-
+### 📊 Live Intelligence (Auto-updating)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkKnight27x&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkKnight27x&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkKnight27x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 ### ⚡ Tech Neural Network
 <!-- Use Shields.io or GitHub badges for glowing look -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
