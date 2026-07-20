@@ -1,13 +1,9 @@
-# Saarthak here
-I'm a passionate developer exploring **Web Development**, **Databases**, and **Artificial Intelligence**. I enjoy creating beautiful web experiences and diving into AI-related projects.
-
-## Languages and Technologies
 <div align="center">
-  <img src="YOUR-BANNER-URL-HERE" alt="Banner" width="100%" style="border-radius: 15px;"/>
-  
   <h1>🌐 Saarthak Kulkarni — DarkKnight27x</h1>
   <p><strong>Full-Stack AI Engineer</strong> | Building Intelligent Systems @ VIT Chennai</p>
   
+  <h3><em>Batman by day, Coder by night</em> 🦇</h3>
+</div>
   <!-- Typing effect or tagline -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Exploring+Web+Dev+%26+AI;Turning+Ideas+into+Neural+Networks;Batman+by+day%2C+Coder+by+night" alt="Typing SVG"/>
 </div>
