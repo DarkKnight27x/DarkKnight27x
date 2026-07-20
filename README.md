@@ -21,7 +21,7 @@
 
 <div align="center">
 
-###&nbsp; BLUEPRINT&nbsp;01 &nbsp;/&nbsp; PROFILE&nbsp;OVERVIEW
+### &nbsp; BLUEPRINT&nbsp;01 &nbsp;/&nbsp; PROFILE&nbsp;OVERVIEW
 
 <sub>SCALE 1:1 &nbsp;·&nbsp; DRAWN BY DarkKnight27x &nbsp;·&nbsp; SHEET A-001</sub>
 
