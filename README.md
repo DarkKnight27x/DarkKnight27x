@@ -1,6 +1,12 @@
+<table align="center">
 <div align="center">
 
-<img src="https://camo.githubusercontent.com/52ea8100ffc34b7fa44657db1d51af02870c0efc86f72000e9221e7ce3a9644d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3044313131372c33303a3041424443362c36303a3742324646372c3130303a304431313137266865696768743d3234302673656374696f6e3d68656164657226746578743d534141525448414b2532304b554c4b41524e4926666f6e7453697a653d343826666f6e74436f6c6f723d30304635464626666f6e74416c69676e593d333626646573633d46756c6c2d537461636b2532304149253230456e67696e6565722532302545322538302539342532304167656e742532304275696c646572253230254532253830253934253230434e4e25323025323625323043562532305370656369616c6973742664657363416c69676e593d35362664657363436f6c6f723d42394136464626616e696d6174696f6e3d66616465496e"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0D1117,30:0ABDC6,60:7B2FF7,100:0D1117&amp;height=260&amp;section=header&amp;text=SAARTHAK%20KULKARNI&amp;fontSize=50&amp;fontColor=00F5FF&amp;fontAlignY=40&amp;animation=twinkling&amp;desc=Full-Stack%20AI%20Engineer%2C%20Agent%20Builder%2C%20CNN&amp;descAlignY=62&amp;descColor=B9A6FF"/>
+
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2400&amp;pause=1000&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Drafting+Blueprints+for+Autonomous+AI+Agents;Engineering+CNNs+That+Learn+to+See;Full-Stack+Architect+%40+VIT+Chennai;%F0%9F%A6%87+Batman+by+day%2C+Coder+by+night" alt="Typing SVG"/>
 
@@ -8,8 +14,7 @@
 
 <a href="https://linkedin.com/in/saarthak-kulkarni-7a355b31b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"/></a>&nbsp;
 <a href="https://instagram.com/saaarthak_27"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white"/></a>&nbsp;
-<a href="https://www.hackerrank.com/saarthakrkulkar1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&amp;logo=hackerrank&amp;logoColor=white"/></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=DarkKnight27x&amp;style=flat-square&amp;color=0D1117&amp;label=VIEWS&amp;labelColor=0ABDC6"/>
+<a href="mailto:saarthak.connect@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white"/></a>
 
 </div>
 
@@ -148,10 +153,8 @@ flowchart TD
 
 <sub>REAL-TIME STRUCTURAL METRICS, AUTO-SURVEYED BY GITHUB</sub>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DarkKnight27x&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;icon_color=7B2FF7&amp;text_color=c9d1d9&amp;border_radius=12" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkKnight27x&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=0ABDC6&amp;ring=7B2FF7&amp;fire=00F5FF&amp;currStreakLabel=00F5FF&amp;border_radius=12" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkKnight27x&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;text_color=c9d1d9&amp;border_radius=12" height="165"/>
 
 </div>
 
@@ -163,7 +166,7 @@ flowchart TD
 
 <div align="center">
 
-###&nbsp; BLUEPRINT&nbsp;05 &nbsp;/&nbsp; CONSTRUCTED WORKS
+### &nbsp; BLUEPRINT&nbsp;05 &nbsp;/&nbsp; CONSTRUCTED WORKS
 
 <sub>SELECTED STRUCTURES, FULLY PERMITTED &amp; DEPLOYED</sub>
 
@@ -184,7 +187,7 @@ flowchart TD
 </td>
 <td width="50%" valign="top">
 
-<h4>🛡️ &nbsp;SJ</h4>
+<h4> &nbsp;SJ</h4>
 <sub><strong>DWG NO. 002</strong> &nbsp;·&nbsp; Production-Grade AI Agent</sub>
 <p>An autonomous, tool-using AI agent engineered for real-world reliability from the foundation up — built to production standards, not prototyped and left there.</p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
@@ -197,14 +200,14 @@ flowchart TD
 <tr>
 <td width="50%" valign="top">
 
-<h4>💬 &nbsp;GDG-CHATBOT</h4>
+<h4> &nbsp;GDG-CHATBOT</h4>
 <sub><strong>DWG NO. 003</strong> &nbsp;·&nbsp; GenAI Financial Assistant</sub>
 <p>Conversational assistant delivering real-time financial insights through a GenAI-driven interface.</p>
 
 </td>
 <td width="50%" valign="top">
 
-<h4>🖥️ &nbsp;OS-Simulator</h4>
+<h4> &nbsp;OS-Simulator</h4>
 <sub><strong>DWG NO. 004</strong> &nbsp;·&nbsp; Systems Visualizer</sub>
 <p>An interactive visualizer that turns core Operating System concepts into something you can actually see move.</p>
 
@@ -220,7 +223,7 @@ flowchart TD
 
 <div align="center">
 
-### 📶 &nbsp; BLUEPRINT&nbsp;06 &nbsp;/&nbsp; TRANSMISSION LINES
+###  &nbsp; BLUEPRINT&nbsp;06 &nbsp;/&nbsp; TRANSMISSION LINES
 
 <sub>OPEN CHANNELS FOR COLLABORATION</sub>
 
@@ -234,3 +237,4 @@ flowchart TD
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,30:0ABDC6,60:7B2FF7,100:0D1117&amp;height=120&amp;section=footer"/>
+</table>
