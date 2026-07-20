@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### 📐 &nbsp; BLUEPRINT&nbsp;01 &nbsp;/&nbsp; PROFILE&nbsp;OVERVIEW
+###&nbsp; BLUEPRINT&nbsp;01 &nbsp;/&nbsp; PROFILE&nbsp;OVERVIEW
 
 <sub>SCALE 1:1 &nbsp;·&nbsp; DRAWN BY DarkKnight27x &nbsp;·&nbsp; SHEET A-001</sub>
 
@@ -36,7 +36,6 @@
 | **Discipline** | Full-Stack AI Engineering · Agentic Systems · Computer Vision |
 | **Site Location** | VIT Chennai &nbsp;/&nbsp; Mumbai, India |
 | **Load-Bearing Skills** | AI Agents · Convolutional Neural Networks · Full-Stack Delivery |
-| **Alter Ego** | 🦇 Gotham's after-hours committer |
 | **Currently Constructing** | Production-grade agentic AI systems + CV pipelines |
 | **Design Philosophy** | *Ship structures that think — not just render* |
 
@@ -51,7 +50,7 @@
 
 <div align="center">
 
-### 🏗️ &nbsp; BLUEPRINT&nbsp;02 &nbsp;/&nbsp; SYSTEM ARCHITECTURE
+###&nbsp; BLUEPRINT&nbsp;02 &nbsp;/&nbsp; SYSTEM ARCHITECTURE
 
 <sub>HOW I DESIGN INTELLIGENT SYSTEMS, END TO END</sub>
 
@@ -59,16 +58,16 @@
 
 ```mermaid
 flowchart TD
-    IN(["🎯 Problem Input"]) --> AGENT["🤖 Agent Orchestration Layer"]
-    IN --> CNN["👁️ CNN / Computer Vision Core"]
+    IN([" Problem Input"]) --> AGENT["Agent Orchestration Layer"]
+    IN --> CNN[" CNN / Computer Vision Core"]
 
-    AGENT --> TOOLS["🔧 Tool-Using Agent Logic"]
+    AGENT --> TOOLS[" Tool-Using Agent Logic"]
     CNN --> TOOLS
 
-    TOOLS --> API["🧠 FastAPI / Service Layer"]
-    API --> WEB["🌐 React Full-Stack Delivery"]
-    WEB --> CLOUD["☁️ Google Cloud + Docker Deployment"]
-    CLOUD --> OUT(["🚀 Production System"])
+    TOOLS --> API[" FastAPI / Service Layer"]
+    API --> WEB[" React Full-Stack Delivery"]
+    WEB --> CLOUD[" Google Cloud + Docker Deployment"]
+    CLOUD --> OUT([" Production System"])
 
     classDef node fill:#0D1117,stroke:#00F5FF,stroke-width:1.5px,color:#c9d1d9,rx:8,ry:8;
     classDef accent fill:#0D1117,stroke:#7B2FF7,stroke-width:2px,color:#00F5FF,rx:8,ry:8;
@@ -86,7 +85,7 @@ flowchart TD
 
 <div align="center">
 
-### 🧩 &nbsp; BLUEPRINT&nbsp;03 &nbsp;/&nbsp; STRUCTURAL MATERIALS
+###&nbsp; BLUEPRINT&nbsp;03 &nbsp;/&nbsp; STRUCTURAL MATERIALS
 
 <sub>APPROVED TECH STACK FOR LOAD-BEARING WORK</sub>
 
@@ -96,7 +95,7 @@ flowchart TD
 <tr>
 <td width="25%" valign="top" align="center">
 
-**🔩 Foundation**
+**Foundation**
 <br/><br/>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black"/><br/>
@@ -107,7 +106,7 @@ flowchart TD
 </td>
 <td width="25%" valign="top" align="center">
 
-**🧠 Intelligence Layer**
+**Intelligence Layer**
 <br/><br/>
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white"/><br/>
@@ -118,7 +117,7 @@ flowchart TD
 </td>
 <td width="25%" valign="top" align="center">
 
-**🌐 Facade &nbsp;/&nbsp; Interface**
+**Facade &nbsp;/&nbsp; Interface**
 <br/><br/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black"/><br/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white"/><br/>
@@ -129,7 +128,7 @@ flowchart TD
 </td>
 <td width="25%" valign="top" align="center">
 
-**☁️ Infrastructure**
+**Infrastructure**
 <br/><br/>
 <img src="https://img.shields.io/badge/-Docker-257bd6?style=flat-square&amp;logo=docker&amp;logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&amp;logo=googlecloud&amp;logoColor=white"/><br/>
@@ -148,7 +147,7 @@ flowchart TD
 
 <div align="center">
 
-### 📡 &nbsp; BLUEPRINT&nbsp;04 &nbsp;/&nbsp; LIVE TELEMETRY
+###&nbsp; BLUEPRINT&nbsp;04 &nbsp;/&nbsp; LIVE TELEMETRY
 
 <sub>REAL-TIME STRUCTURAL METRICS, AUTO-SURVEYED BY GITHUB</sub>
 
@@ -167,7 +166,7 @@ flowchart TD
 
 <div align="center">
 
-### 🗂️ &nbsp; BLUEPRINT&nbsp;05 &nbsp;/&nbsp; CONSTRUCTED WORKS
+###&nbsp; BLUEPRINT&nbsp;05 &nbsp;/&nbsp; CONSTRUCTED WORKS
 
 <sub>SELECTED STRUCTURES, FULLY PERMITTED &amp; DEPLOYED</sub>
 
@@ -177,7 +176,7 @@ flowchart TD
 <tr>
 <td width="50%" valign="top">
 
-<h4>🎧 &nbsp;MoodMuse</h4>
+<h4>&nbsp;MoodMuse</h4>
 <sub><strong>DWG NO. 001</strong> &nbsp;·&nbsp; AI Playlist Generator, Spotify-Integrated</sub>
 <p>A mood-aware recommendation engine — a quiz-driven preference vector feeds a multi-objective ranking system layered over live Spotify data to generate genuinely personalized playlists.</p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
