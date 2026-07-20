@@ -22,9 +22,6 @@
 <div align="center">
 
 ### &nbsp; BLUEPRINT&nbsp;01 &nbsp;/&nbsp; PROFILE&nbsp;OVERVIEW
-
-<sub>SCALE 1:1 &nbsp;·&nbsp; DRAWN BY DarkKnight27x &nbsp;·&nbsp; SHEET A-001</sub>
-
 </div>
 
 <table width="100%">
@@ -50,7 +47,7 @@
 
 <div align="center">
 
-###&nbsp; BLUEPRINT&nbsp;02 &nbsp;/&nbsp; SYSTEM ARCHITECTURE
+### &nbsp; BLUEPRINT&nbsp;02 &nbsp;/&nbsp; SYSTEM ARCHITECTURE
 
 <sub>HOW I DESIGN INTELLIGENT SYSTEMS, END TO END</sub>
 
@@ -85,7 +82,7 @@ flowchart TD
 
 <div align="center">
 
-###&nbsp; BLUEPRINT&nbsp;03 &nbsp;/&nbsp; STRUCTURAL MATERIALS
+### &nbsp; BLUEPRINT&nbsp;03 &nbsp;/&nbsp; STRUCTURAL MATERIALS
 
 <sub>APPROVED TECH STACK FOR LOAD-BEARING WORK</sub>
 
@@ -147,7 +144,7 @@ flowchart TD
 
 <div align="center">
 
-###&nbsp; BLUEPRINT&nbsp;04 &nbsp;/&nbsp; LIVE TELEMETRY
+### &nbsp; BLUEPRINT&nbsp;04 &nbsp;/&nbsp; LIVE TELEMETRY
 
 <sub>REAL-TIME STRUCTURAL METRICS, AUTO-SURVEYED BY GITHUB</sub>
 
