@@ -2,7 +2,46 @@
 I'm a passionate developer exploring **Web Development**, **Databases**, and **Artificial Intelligence**. I enjoy creating beautiful web experiences and diving into AI-related projects.
 
 ## Languages and Technologies
+<div align="center">
+  <img src="YOUR-BANNER-URL-HERE" alt="Banner" width="100%" style="border-radius: 15px;"/>
+  
+  <h1>🌐 Saarthak Kulkarni — DarkKnight27x</h1>
+  <p><strong>Full-Stack AI Engineer</strong> | Building Intelligent Systems @ VIT Chennai</p>
+  
+  <!-- Typing effect or tagline -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Exploring+Web+Dev+%26+AI;Turning+Ideas+into+Neural+Networks;Batman+by+day%2C+Coder+by+night" alt="Typing SVG"/>
+</div>
 
+---
+
+### 🧠 Neural Core
+I'm a passionate developer crafting **beautiful web experiences**, **intelligent databases**, and **AI-powered systems**. Currently diving deep into GenAI, computer vision, and full-stack architectures.
+
+### ⚡ Tech Neural Network
+<!-- Use Shields.io or GitHub badges for glowing look -->
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+<!-- Add more for React, Docker, etc. with neon colors -->
+
+### 📊 Live Intelligence (Auto-updating)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkKnight27x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkKnight27x&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkKnight27x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+</p>
+
+### 🏆 Trophies & Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=DarkKnight27x&theme=tokyonight&column=4&margin-w=15)
+
+### 🚀 Pinned Neural Projects
+<!-- Your existing pinned repos will show, but enhance descriptions -->
+
+**GDG-CHATBOT** — GenAI financial assistant with real-time insights  
+**OS-Simulator** — Interactive Operating System concepts visualizer
+
+### 🌐 Connect in the Matrix
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](LINK)
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="45"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" height="45"/>
